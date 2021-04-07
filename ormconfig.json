@@ -1,5 +1,5 @@
 {
-  "username": "queries_challenge",
+  "username": "postgres",
   "password": "docker",
   "type": "postgres",
   "name": "default",
